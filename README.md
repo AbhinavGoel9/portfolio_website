@@ -1,5 +1,5 @@
 <h2>
-  <a href="https://abhinavgoel9.github.io/portfolio_site/">Portfolio_Site</a>
+  <a href="https://abhinavgoel9.github.io/portfolio_website/">Portfolio_Site</a>
 </h2>
 
 Welcome to my personal website and portfolio! This repository contains the source code for my online portfolio hosted on GitHub Pages.
@@ -27,7 +27,7 @@ I am a passionate web developer and designer with a keen interest in creating be
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://abhinavgoel9.github.io/Portfolio_Site/)**
+To view a live example, **[click here](https://abhinavgoel9.github.io/portfolio_website/)**
 
 ## Tools Used 🛠️
 
